@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 - 👨‍💻 All of my projects are available at <a href="https://erayadigital.co.id">My Company</a> or <a href="https://inodreamstudio.com">My Sub Team</a>
-- 💬 Ask me about **PHP, Javascript, Python and related technologies**
+- 💬 Feel free to ask me about **PHP, JavaScript, or related technologies** — I'll answer if I can. Let’s discuss together!
 - 📫 How to reach me **aries@erayadigital.co.id**
 - ⚡ Do you like playing games? **Let's play together** and i will record in My Youtube Channel
